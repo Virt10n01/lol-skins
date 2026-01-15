@@ -1,5 +1,5 @@
 releases/
-*.ps1
+*.ps1? Would you like to retry cloning logger.tmp ?
 *.py
 .readme_cache/
 readme_generator.log
